@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "shadab0",
+  "repo": "container-km42swu",
+  "name": "shadab0",
+}
